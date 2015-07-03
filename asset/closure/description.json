@@ -1,0 +1,6 @@
+{
+  "en-us": {
+    desc: "Closures (also lexical closures or function closures) are a technique for implementing lexically scoped name binding in languages with first-class functions. Operationally, a closure is a data structure storing a function[a] together with an environment",
+    attribute: "This article uses material from the Wikipedia article \"Closure_(computer_programming)\" which is released under the Creative Commons Attribution-Share-Alike License 3.0"
+  }
+}

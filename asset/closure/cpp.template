@@ -1,0 +1,3 @@
+auto func = [&a, b] (int x, int y) -> int {
+  return a * x + b * y;
+};
